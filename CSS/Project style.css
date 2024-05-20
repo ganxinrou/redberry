@@ -1,0 +1,261 @@
+.project-team-wang-photo-3 {
+  position: absolute;
+  top: calc(50% + 2388px);
+  left: calc(50% - 221px);
+  width: 498px;
+  height: 462px;
+  object-fit: cover;
+}
+.projecr-teamwang-photo-2,
+.project-team-wang-photo-1 {
+  position: absolute;
+  top: calc(50% + 1590px);
+  left: calc(50% + 193px);
+  width: 446px;
+  height: 682px;
+  object-fit: cover;
+}
+.project-team-wang-photo-1 {
+  left: calc(50% - 544px);
+  width: 485px;
+}
+.project-team-wangline-3-strok {
+  position: absolute;
+  top: calc(50% + 1554.08px);
+  left: calc(50% - 718.5px);
+  width: 1440px;
+  height: 8.9px;
+  object-fit: contain;
+}
+.project-team-wang-accessories,
+.project-team-wang-american-st {
+  position: absolute;
+  top: calc(50% + 543px);
+  left: calc(50% + 164px);
+  width: 588px;
+  height: 680px;
+  object-fit: cover;
+}
+.project-team-wang-american-st {
+  top: calc(50% + 554px);
+  left: calc(50% - 604px);
+  width: 583px;
+  height: 785px;
+}
+.make-yourself-more {
+  position: absolute;
+  top: calc(50% + 318px);
+  left: calc(50% + 183px);
+  display: inline-block;
+  font-weight: 300;
+  color: #7c0000;
+  width: 480px;
+  height: 382px;
+}
+.project-team-wang-cool-style,
+.project-team-wang-country-sty {
+  position: absolute;
+  top: calc(50% - 288px);
+  left: calc(50% - 626px);
+  width: 650px;
+  height: 670px;
+  object-fit: cover;
+}
+.project-team-wang-cool-style {
+  top: calc(50% - 591px);
+  left: calc(50% + 64px);
+  width: 639px;
+  height: 769px;
+}
+.improve-our-clothing {
+  position: absolute;
+  top: calc(50% - 610px);
+  left: calc(50% - 532px);
+  display: inline-block;
+  font-weight: 300;
+  color: #00460f;
+  width: 491px;
+  height: 364px;
+}
+.project-team-wang-line-2-stro {
+  position: absolute;
+  top: calc(50% - 698px);
+  left: calc(50% - 720.02px);
+  width: 1440px;
+  height: 11px;
+  object-fit: contain;
+}
+.simplecutepreppysexyvintag {
+  position: absolute;
+  top: calc(50% - 1142px);
+  left: calc(50% + 16px);
+  display: inline-block;
+  font-weight: 800;
+  text-align: center;
+  width: 569px;
+  height: 116px;
+}
+.team-wang {
+  position: absolute;
+  top: calc(50% - 1236px);
+  left: calc(50% + 85px);
+  font-size: var(--font-size-45xl);
+  display: inline-block;
+  font-weight: 700;
+  color: var(--color-maroon-100);
+  width: 499px;
+  height: 54px;
+}
+.project-team-wang-korean {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 1294px);
+  left: calc(50% - 636px);
+  border-radius: var(--br-11xl);
+  width: 471px;
+  height: 449px;
+  background-image: url(./public/project-team-wang-korean@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.american-retro-french,
+.aurora {
+  position: absolute;
+  display: inline-block;
+}
+.american-retro-french {
+  top: calc(50% - 1764px);
+  left: calc(50% - 95px);
+  font-weight: 800;
+  text-align: center;
+  width: 783px;
+  height: 243px;
+}
+.aurora {
+  top: calc(50% - 1864px);
+  left: calc(50% + 154px);
+  font-size: var(--font-size-45xl);
+  font-weight: 700;
+  color: var(--color-maroon-100);
+  width: 328px;
+  height: 54px;
+}
+.project-aurora-vintage {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 1909px);
+  left: calc(50% - 632px);
+  border-radius: var(--br-11xl);
+  width: 467px;
+  height: 461px;
+  background-image: url(./public/project-aurora-vintage@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.neko,
+.y2kmillennium-retroamerican {
+  position: absolute;
+  display: inline-block;
+}
+.y2kmillennium-retroamerican {
+  top: calc(50% - 2401px);
+  left: calc(50% - 92px);
+  font-weight: 800;
+  text-align: center;
+  width: 783px;
+  height: 243px;
+}
+.neko {
+  top: calc(50% - 2493px);
+  left: calc(50% + 208px);
+  font-size: var(--font-size-45xl);
+  font-weight: 700;
+  color: var(--color-maroon-100);
+  width: 209px;
+  height: 54px;
+}
+.project-neko-y2k {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 2565px);
+  left: calc(50% - 614px);
+  border-radius: var(--br-11xl);
+  width: 427px;
+  height: 459px;
+  background-image: url(./public/project-neko-y2k@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.project-team-wangline-1-strok {
+  position: absolute;
+  top: calc(50% - 2734px);
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 10px;
+  object-fit: contain;
+}
+.contact,
+.home,
+.project1,
+.team {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 2845px);
+  left: calc(50% + 537px);
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-homenaje);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 202px;
+  height: 112px;
+}
+.home,
+.project1,
+.team {
+  left: calc(50% + 323px);
+  width: 214px;
+}
+.home,
+.project1 {
+  left: calc(50% + 70px);
+  width: 190px;
+}
+.home {
+  left: calc(50% - 154px);
+  width: 125px;
+}
+.project-logo-icon {
+  position: absolute;
+  top: calc(50% - 2974px);
+  left: calc(50% - 688px);
+  width: 443px;
+  height: 213px;
+  object-fit: cover;
+}
+.project {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 6000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-midnightblue);
+  font-family: var(--font-inter);
+}

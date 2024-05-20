@@ -1,0 +1,388 @@
+.line-1-stroke,
+.line-5-stroke {
+  position: absolute;
+  top: calc(50% - 2715px);
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 10px;
+  object-fit: contain;
+}
+.line-5-stroke {
+  top: calc(50% - 1560px);
+  left: calc(50% - 720.02px);
+  height: 11px;
+}
+.aurora {
+  position: absolute;
+  top: calc(50% - 2643px);
+  left: calc(50% + 452px);
+  font-size: 85px;
+  text-shadow: 1px 0 0#fff, 0 1px 0#fff, -1px 0 0#fff, 0-1px 0#fff;
+}
+.line-8-stroke,
+.line-9-stroke {
+  position: absolute;
+  top: calc(50% + 1802px);
+  left: calc(50% - 720.02px);
+  width: 1440px;
+  height: 11px;
+  object-fit: contain;
+}
+.line-9-stroke {
+  top: calc(50% + 206px);
+}
+.project-aurora-rectangle-2 {
+  position: absolute;
+  top: calc(50% - 2304px);
+  left: calc(50% - 529px);
+  background-color: #edc282;
+  width: 695px;
+  height: 702px;
+}
+.project-aurora-header-picture-icon {
+  position: absolute;
+  top: calc(50% - 2531px);
+  left: calc(50% - 129px);
+  width: 903px;
+  height: 862px;
+  object-fit: cover;
+}
+.vintage-style-outfit {
+  position: absolute;
+  top: calc(50% - 2551px);
+  left: calc(50% + 141px);
+  font-size: 80px;
+  color: var(--color-white);
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.contact,
+.home,
+.project,
+.team {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 2826px);
+  left: calc(50% - 150px);
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-homenaje);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 125px;
+  height: 112px;
+}
+.contact,
+.project,
+.team {
+  left: calc(50% + 71px);
+  width: 190px;
+}
+.contact,
+.team {
+  left: calc(50% + 320px);
+  width: 214px;
+}
+.contact {
+  left: calc(50% + 534px);
+  width: 202px;
+}
+.weekly-recommended-outfit {
+  position: absolute;
+  top: calc(50% - 1537px);
+  left: calc(50% - 362px);
+  font-size: var(--font-size-51xl);
+}
+.project-aurora-outfit-1-icon,
+.project-aurora-outfit-2-icon {
+  position: absolute;
+  top: calc(50% - 1428px);
+  left: calc(50% - 744px);
+  border-radius: var(--br-81xl);
+  width: 660px;
+  height: 738px;
+  object-fit: cover;
+}
+.project-aurora-outfit-2-icon {
+  top: calc(50% - 690px);
+  left: calc(50% + 67px);
+  width: 653px;
+}
+.project-aurora-button1 {
+  position: absolute;
+  top: calc(50% + 79px);
+  left: calc(50% - 206px);
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 362px;
+  height: 104px;
+}
+.more {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% + 98px);
+  left: calc(50% - 84px);
+  font-size: var(--font-size-41xl);
+  font-family: var(--font-homenaje);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.shop-with-me {
+  position: absolute;
+  top: calc(50% + 248px);
+  left: calc(50% - 190px);
+  font-size: var(--font-size-51xl);
+}
+.online-store,
+.physical-store {
+  position: absolute;
+  top: calc(50% + 465px);
+  left: calc(50% - 196px);
+}
+.online-store {
+  top: calc(50% + 1113px);
+  left: calc(50% - 180px);
+}
+.project-aurora-online-store-1,
+.project-aurora-physical-store,
+.project-aurora-physical-store1,
+.project-aurora-physical-store2 {
+  position: absolute;
+  top: calc(50% + 597px);
+  left: calc(50% - 611px);
+  border-radius: var(--br-131xl);
+  width: 393px;
+  height: 401px;
+  object-fit: cover;
+}
+.project-aurora-online-store-1,
+.project-aurora-physical-store1,
+.project-aurora-physical-store2 {
+  left: calc(50% - 221px);
+  width: 413px;
+}
+.project-aurora-online-store-1,
+.project-aurora-physical-store2 {
+  left: calc(50% + 210px);
+  width: 412px;
+}
+.project-aurora-online-store-1 {
+  top: calc(50% + 1245px);
+  left: calc(50% - 622px);
+  width: 377px;
+}
+.project-aurora-logo-icon {
+  position: absolute;
+  top: calc(50% - 2959px);
+  left: calc(50% - 688px);
+  width: 443px;
+  height: 213px;
+  object-fit: cover;
+}
+.project-aurora-online-store-2,
+.project-aurora-online-store-3 {
+  position: absolute;
+  top: calc(50% + 1245px);
+  left: calc(50% - 245px);
+  border-radius: var(--br-131xl);
+  width: 410px;
+  height: 401px;
+  object-fit: cover;
+}
+.project-aurora-online-store-3 {
+  left: calc(50% + 165px);
+  width: 424px;
+}
+.project-aurora-arrow-button3 {
+  top: calc(50% + 725px);
+  left: calc(50% - 720px);
+}
+.project-aurora-arrow-button1,
+.project-aurora-arrow-button2,
+.project-aurora-arrow-button3,
+.project-aurora-arrow-button4 {
+  position: absolute;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 109px;
+  height: 108px;
+}
+.project-aurora-arrow-button2 {
+  top: calc(50% + 725px);
+  left: calc(50% + 611px);
+}
+.project-aurora-arrow-button1,
+.project-aurora-arrow-button4 {
+  top: calc(50% + 1392px);
+}
+.project-aurora-arrow-button1 {
+  left: calc(50% - 720px);
+  display: none;
+}
+.project-aurora-arrow-button4 {
+  left: calc(50% + 611px);
+}
+.project-aurora-arrow-1-stroke,
+.project-aurora-arrow-2-stroke {
+  position: absolute;
+  top: calc(50% + 771.63px);
+  left: calc(50% - 691.06px);
+  width: 51.3px;
+  height: 15.2px;
+  object-fit: contain;
+}
+.project-aurora-arrow-2-stroke {
+  top: calc(50% + 1438.63px);
+  left: calc(50% - 689.06px);
+}
+.project-aurora-arrow-3-stroke,
+.project-aurora-arrow-4stroke-icon {
+  position: absolute;
+  top: calc(50% + 771.64px);
+  left: calc(50% + 640.97px);
+  width: 51.2px;
+  height: 14.9px;
+  object-fit: contain;
+}
+.project-aurora-arrow-4stroke-icon {
+  top: calc(50% + 1438.64px);
+}
+.recent-favourite-things {
+  position: absolute;
+  top: calc(50% + 1845px);
+  left: calc(50% - 422px);
+}
+.project-aurora-accessories-3-icon,
+.project-aurora-accessories1-icon {
+  position: absolute;
+  top: calc(50% + 1959px);
+  left: calc(50% - 720px);
+  border-radius: var(--br-181xl);
+  width: 436px;
+  height: 541px;
+  object-fit: cover;
+}
+.project-aurora-accessories-3-icon {
+  left: calc(50% + 245px);
+  width: 475px;
+}
+.project-aurora-button2 {
+  position: absolute;
+  top: calc(50% + 2654px);
+  left: calc(50% - 181px);
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 362px;
+  height: 104px;
+}
+.more1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% + 2673px);
+  left: calc(50% - 62px);
+  font-size: var(--font-size-41xl);
+  font-family: var(--font-homenaje);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.project-aurora-accessories-2-icon {
+  position: absolute;
+  top: calc(50% + 2013px);
+  left: calc(50% - 238px);
+  border-radius: 250px;
+  width: 437px;
+  height: 487px;
+  object-fit: cover;
+}
+.beaded-bracelet,
+.beaded-necklace,
+.watch {
+  position: absolute;
+  top: calc(50% + 2500px);
+  left: calc(50% + 427px);
+  font-size: var(--font-size-31xl);
+}
+.beaded-bracelet,
+.beaded-necklace {
+  top: calc(50% + 2527px);
+  left: calc(50% - 176px);
+}
+.beaded-bracelet {
+  top: calc(50% + 2500px);
+  left: calc(50% - 663px);
+}
+.project-aurora-ellipse-2 {
+  position: absolute;
+  top: calc(50% - 1451px);
+  left: calc(50% - 181px);
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 250px;
+  height: 252px;
+}
+.clean-simple {
+  position: absolute;
+  top: calc(50% - 1367px);
+  left: calc(50% - 139px);
+  color: #0148b2;
+}
+.project-aurora-ellipse-1 {
+  position: absolute;
+  top: calc(50% - 734px);
+  left: calc(50% - 72px);
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 250px;
+  height: 252px;
+}
+.retro-hot-girl {
+  position: absolute;
+  top: calc(50% - 641px);
+  left: calc(50% - 414px);
+  color: #780909;
+}
+.simple-yet-elegant {
+  margin: 0;
+}
+.sexy-yet-sweet-container,
+.simple-yet-elegant-container {
+  position: absolute;
+  top: calc(50% - 1100px);
+  left: calc(50% - 36px);
+  font-size: var(--font-size-21xl);
+}
+.sexy-yet-sweet-container {
+  top: calc(50% - 383px);
+  left: calc(50% - 628px);
+  display: inline-block;
+  width: 668px;
+  height: 224px;
+}
+.project-aurora-rectangle-1-icon {
+  position: absolute;
+  top: calc(50% - 2659px);
+  left: calc(50% - 720px);
+  width: 487px;
+  height: 702px;
+}
+.project-aurora {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 6000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-41xl);
+  color: var(--color-black);
+  font-family: var(--font-jockey-one);
+}

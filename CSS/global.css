@@ -1,0 +1,200 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-homenaje: Homenaje;
+    --font-arima-madurai: "Arima Madurai";
+    --font-inder: Inder;
+    --font-italianno: Italianno;
+    --font-katibeh: Katibeh;
+    --font-koulen: Koulen;
+    --font-inria-serif: "Inria Serif";
+  
+    /* font sizes */
+    --font-size-13xl: 32px;
+    --font-size-21xl: 40px;
+    --font-size-81xl: 100px;
+    --font-size-61xl: 80px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+    --color-whitesmoke: #f8f8f8;
+  }
+
+  
+  body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-homenaje: Homenaje;
+    --font-inter: Inter;
+  
+    /* font sizes */
+    --font-size-13xl: 32px;
+    --font-size-45xl: 64px;
+    --font-size-29xl: 48px;
+  
+    /* Colors */
+    --color-black: #000;
+    --color-maroon-100: #800000;
+    --color-midnightblue: #2f1063;
+  
+    /* Border radiuses */
+    --br-11xl: 30px;
+  }
+  
+  
+  body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-jockey-one: "Jockey One";
+    --font-roboto: Roboto;
+    --font-koulen: Koulen;
+    --font-changa: Changa;
+    --font-changa-one: "Changa One";
+    --font-gidugu: Gidugu;
+    --font-kalam: Kalam;
+    --font-homenaje: Homenaje;
+  
+    /* font sizes */
+    --font-size-66xl: 85px;
+    --font-size-61xl: 80px;
+    --font-size-101xl: 120px;
+    --font-size-13xl: 32px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+  
+    /* Border radiuses */
+    --br-2xl: 21px;
+  }
+
+
+  body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-roboto: Roboto;
+    --font-homenaje: Homenaje;
+  
+    /* font sizes */
+    --font-size-36xl: 55px;
+    --font-size-13xl: 32px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+  
+    /* Border radiuses */
+    --br-81xl: 100px;
+  }
+
+
+  body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-jockey-one: "Jockey One";
+    --font-homenaje: Homenaje;
+  
+    /* font sizes */
+    --font-size-21xl: 40px;
+    --font-size-41xl: 60px;
+    --font-size-31xl: 50px;
+    --font-size-51xl: 70px;
+    --font-size-13xl: 32px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+    --color-gainsboro: #d9d9d9;
+  
+    /* Border radiuses */
+    --br-181xl: 200px;
+    --br-131xl: 150px;
+    --br-81xl: 100px;
+  }
+
+  
+
+  body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-roboto: Roboto;
+    --font-homenaje: Homenaje;
+    --font-josefin-sans: "Josefin Sans";
+    --font-jockey-one: "Jockey One";
+    --font-coda-caption: "Coda Caption";
+    --font-coda: Coda;
+    --font-codystar: Codystar;
+  
+    /* font sizes */
+    --font-size-19xl: 38px;
+    --font-size-26xl: 45px;
+    --font-size-13xl: 32px;
+    --font-size-56xl: 75px;
+    --font-size-81xl: 100px;
+    --font-size-51xl: 70px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+  
+    /* Paddings */
+    --padding-53xl: 72px;
+  
+    /* Border radiuses */
+    --br-xl: 20px;
+    --br-181xl: 200px;
+  }
+
+  
+
+  body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-homenaje: Homenaje;
+    --font-inter: Inter;
+  
+    /* font sizes */
+    --font-size-13xl: 32px;
+    --font-size-45xl: 64px;
+    --font-size-26xl: 45px;
+    --font-size-29xl: 48px;
+  
+    /* Colors */
+    --color-black: #000;
+  
+    /* Border radiuses */
+    --br-31xl: 50px;
+    --br-21xl: 40px;
+    --br-11xl: 30px;
+    --br-xl: 20px;
+  }
+  

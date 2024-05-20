@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-jockey-one: "Jockey One";
+  --font-roboto: Roboto;
+  --font-koulen: Koulen;
+  --font-changa: Changa;
+  --font-changa-one: "Changa One";
+  --font-gidugu: Gidugu;
+  --font-kalam: Kalam;
+  --font-homenaje: Homenaje;
+
+  /* font sizes */
+  --font-size-66xl: 85px;
+  --font-size-61xl: 80px;
+  --font-size-101xl: 120px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+
+  /* Border radiuses */
+  --br-2xl: 21px;
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-homenaje: Homenaje;
+
+  /* font sizes */
+  --font-size-36xl: 55px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+
+  /* Border radiuses */
+  --br-81xl: 100px;
+}

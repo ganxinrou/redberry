@@ -1,0 +1,359 @@
+.home-bg-colour2 {
+  position: absolute;
+  top: calc(50% + 914px);
+  left: calc(50% - 720px);
+  background-color: var(--color-whitesmoke);
+  width: 1440px;
+  height: 900px;
+}
+.in-addition-to {
+  margin: 0;
+}
+.in-addition-to-container {
+  position: absolute;
+  top: calc(50% + 1582px);
+  left: calc(50% - 486px);
+  font-size: 70px;
+  font-family: var(--font-italianno);
+}
+.vintage-style {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% + 620px);
+  left: calc(50% - 633px);
+  font-size: var(--font-size-61xl);
+  font-family: var(--font-katibeh);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.bag,
+.earring,
+.necklace {
+  position: absolute;
+  top: calc(50% + 1423px);
+  left: calc(50% - 577px);
+  text-align: left;
+}
+.bag,
+.earring {
+  top: calc(50% + 1424px);
+  left: calc(50% - 99px);
+}
+.bag {
+  top: calc(50% + 1423px);
+  left: calc(50% + 419px);
+}
+.home-bg-colour1 {
+  position: absolute;
+  top: calc(50% - 899.01px);
+  left: calc(50% - 718px);
+  background-color: var(--color-whitesmoke);
+  width: 1440px;
+  height: 900px;
+}
+.home-berry-icon,
+.home-logo-icon {
+  position: absolute;
+  top: calc(50% - 2047px);
+  left: calc(50% - 688px);
+  width: 443px;
+  height: 213px;
+  object-fit: cover;
+}
+.home-berry-icon {
+  top: calc(50% - 845px);
+  left: calc(50% - 595px);
+  border-radius: 100px;
+  width: 442px;
+  height: 442px;
+}
+.step-into-style-container {
+  position: absolute;
+  top: calc(50% - 773px);
+  left: calc(50% - 116px);
+  font-size: 36px;
+  display: inline-block;
+  font-family: var(--font-inria-serif);
+  width: 712px;
+}
+.home-outfits-1-icon,
+.home-outfits-2-icon,
+.home-outfits-3-icon,
+.home-outfits-4-icon {
+  position: absolute;
+  top: calc(50% - 283px);
+  left: calc(50% - 648px);
+  border-radius: 50%;
+  width: 226px;
+  height: 226px;
+  object-fit: cover;
+}
+.home-outfits-1-icon,
+.home-outfits-2-icon,
+.home-outfits-3-icon {
+  left: calc(50% - 295px);
+}
+.home-outfits-1-icon,
+.home-outfits-2-icon {
+  left: calc(50% + 58px);
+}
+.home-outfits-1-icon {
+  left: calc(50% + 411px);
+}
+.trending-style {
+  position: absolute;
+  top: calc(50% + 10px);
+  left: calc(50% - 336px);
+  font-size: var(--font-size-81xl);
+  font-family: var(--font-koulen);
+  display: inline-block;
+  width: 676px;
+}
+.home-vintage-1-icon,
+.home-vintage-2-icon,
+.home-y2k-1-icon,
+.home-y2k-2-icon {
+  position: absolute;
+  top: calc(50% + 248px);
+  left: calc(50% - 686px);
+  width: 221px;
+  height: 343px;
+  object-fit: cover;
+}
+.home-vintage-2-icon,
+.home-y2k-1-icon,
+.home-y2k-2-icon {
+  left: calc(50% - 465px);
+}
+.home-y2k-1-icon,
+.home-y2k-2-icon {
+  left: calc(50% - 219px);
+}
+.home-y2k-2-icon {
+  left: calc(50% + 2px);
+}
+.korean-style,
+.y2k-style {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% + 622px);
+  left: calc(50% - 118px);
+  font-size: var(--font-size-61xl);
+  font-family: var(--font-katibeh);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.korean-style {
+  top: calc(50% + 621px);
+  left: calc(50% + 305px);
+}
+.home-background-icon {
+  position: absolute;
+  height: 51.81%;
+  width: 48%;
+  top: 20.73%;
+  right: 25.03%;
+  bottom: 27.46%;
+  left: 26.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.home-background {
+  position: absolute;
+  top: calc(50% - 2167px);
+  left: calc(50% - 1529px);
+  width: 3000px;
+  height: 1737px;
+  overflow: hidden;
+}
+.where-style-meets-container {
+  position: absolute;
+  top: calc(50% - 1171px);
+  left: calc(50% - 453px);
+  font-size: var(--font-size-81xl);
+  font-family: var(--font-italianno);
+  color: var(--color-white);
+  display: inline-block;
+  width: 910px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.style-ripe-for {
+  position: absolute;
+  top: calc(50% + 783px);
+  left: calc(50% - 663px);
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-inder);
+  text-align: left;
+  text-shadow: 0.5px 0 0#000, 0 0.5px 0#000, -0.5px 0 0#000, 0-0.5px 0#000;
+}
+.home-line-2-stroke,
+.home-line-3-stroke,
+.home-line-4-stroke,
+.home-line-5-stroke,
+.home-line-6-stroke {
+  position: absolute;
+  top: calc(50% - 909px);
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 10px;
+  object-fit: contain;
+}
+.home-line-3-stroke,
+.home-line-4-stroke,
+.home-line-5-stroke,
+.home-line-6-stroke {
+  top: calc(50% - 2px);
+}
+.home-line-3-stroke,
+.home-line-5-stroke,
+.home-line-6-stroke {
+  top: calc(50% + 904px);
+}
+.home-line-3-stroke,
+.home-line-6-stroke {
+  top: calc(50% + 1807px);
+}
+.home-line-3-stroke {
+  top: calc(50% - 353px);
+  left: calc(50% - 479px);
+  width: 958px;
+  height: 8.1px;
+}
+.home-line-7-stroke {
+  position: absolute;
+  top: calc(50% + 184px);
+  left: calc(50% - 336px);
+  width: 676px;
+  height: 7px;
+}
+.home-line-1-stroke {
+  position: absolute;
+  top: calc(50% - 1809px);
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 10px;
+  object-fit: contain;
+}
+.home-bags-icon,
+.home-earrings-icon,
+.home-necklace-icon {
+  position: absolute;
+  top: calc(50% + 1024px);
+  left: calc(50% - 653px);
+  border-radius: 50%;
+  width: 376px;
+  height: 376px;
+  object-fit: cover;
+}
+.home-bags-icon,
+.home-earrings-icon {
+  left: calc(50% - 186px);
+}
+.home-bags-icon {
+  left: calc(50% + 279px);
+}
+.home-whatsapp-icon {
+  position: absolute;
+  top: calc(50% + 1860px);
+  left: calc(50% - 362px);
+  width: 157px;
+  height: 169px;
+  object-fit: cover;
+}
+.contact,
+.home1,
+.project,
+.redberryoutfitsgmailcom-603,
+.team {
+  position: absolute;
+  top: calc(50% + 1882px);
+  left: calc(50% + 41px);
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-arima-madurai);
+  text-align: right;
+  display: inline-block;
+  width: 632px;
+  height: 130px;
+}
+.contact,
+.home1,
+.project,
+.team {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: calc(50% - 1919px);
+  left: calc(50% - 154px);
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-homenaje);
+  color: var(--color-black);
+  text-align: left;
+  width: 125px;
+  height: 112px;
+}
+.contact,
+.project,
+.team {
+  left: calc(50% + 70px);
+  width: 190px;
+}
+.contact,
+.team {
+  left: calc(50% + 319px);
+  width: 214px;
+}
+.contact {
+  left: calc(50% + 535px);
+  width: 202px;
+}
+.home-facebook-icon,
+.home-instagram-icon {
+  position: absolute;
+  top: calc(50% + 1869px);
+  left: calc(50% - 680px);
+  width: 146px;
+  height: 152px;
+  object-fit: cover;
+}
+.home-facebook-icon {
+  top: calc(50% + 1867px);
+  left: calc(50% - 523px);
+  width: 158px;
+  height: 156px;
+}
+.home-korean-style1-icon,
+.home-korean-style2-icon {
+  position: absolute;
+  top: calc(50% + 248px);
+  left: calc(50% + 467px);
+  width: 221px;
+  height: 343px;
+  object-fit: cover;
+}
+.home-korean-style1-icon {
+  left: calc(50% + 245px);
+  width: 222px;
+}
+.home {
+  width: 100%;
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-white);
+  height: 4150px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-61xl);
+  color: var(--color-black);
+  font-family: var(--font-katibeh);
+}

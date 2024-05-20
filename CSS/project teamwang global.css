@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-homenaje: Homenaje;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-13xl: 32px;
+  --font-size-45xl: 64px;
+  --font-size-26xl: 45px;
+  --font-size-29xl: 48px;
+
+  /* Colors */
+  --color-black: #000;
+
+  /* Border radiuses */
+  --br-31xl: 50px;
+  --br-21xl: 40px;
+  --br-11xl: 30px;
+  --br-xl: 20px;
+}
